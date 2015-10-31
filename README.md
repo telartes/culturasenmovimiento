@@ -1,4 +1,4 @@
-# culturasenmovimiento
+# Conclusines del Congreso Culturas en Movimiento
 Conclusiones de las Mesas de Trabajo del Congreso de Culturas en Movimiento realizado del 29 al 31 de octubre de 2015.
 
 * [MESA 1: Formacion e Investigacion Cultural](https://github.com/telartes/culturasenmovimiento/blob/master/md/01%20-%20Formacion%20e%20Investigacion%20Cultural.md)
